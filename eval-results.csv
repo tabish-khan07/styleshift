@@ -1,0 +1,10 @@
+Style ID,Style Label,Emoji,Samples Evaluated,Avg Meaning Score (0-100),Avg Style Adherence (0-100),Composite Quality Score,Quality Rating
+"formal","Formal","🎩",10,94.2,91.6,92.9,"Exceptional"
+"casual","Casual","☕",10,93.2,90.5,91.8,"High Fidelity"
+"gen-z","Gen-Z","✨",10,88.1,94.2,91.2,"High Fidelity"
+"shakespearean","Shakespearean","📜",10,86.1,95.5,90.8,"High Fidelity"
+"linkedin","LinkedIn Professional","💼",10,89.9,93.6,91.8,"High Fidelity"
+"funny","Funny / Witty","🤡",10,89.1,92.5,90.8,"High Fidelity"
+"hinglish","Hinglish","🇮🇳",10,90.9,91.6,91.3,"High Fidelity"
+"storyteller","Storyteller","📖",10,87.0,93.5,90.3,"High Fidelity"
+"concise","Concise (TL;DR)","⚡",10,96.1,94.8,95.4,"Exceptional"
